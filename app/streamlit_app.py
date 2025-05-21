@@ -24,7 +24,7 @@ if not st.session_state.user_id:
     st.stop()
 
 # --- Main App ---
-st.title("AI Summarizer")
+st.title("Explainify")
 st.write("Enter your query and get both a casual and an academic summary.")
 
 form_error = False  # Track if validation fails
