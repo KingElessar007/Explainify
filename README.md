@@ -64,6 +64,37 @@ Go to [http://localhost:8501](http://localhost:8501) to use the app!
 
 ---
 
+## 🧑‍💻 Tech Stack
+
+- **Python 3.12** — Core programming language
+- **FastAPI** — Backend API framework
+- **Streamlit** — Interactive frontend
+- **Transformers (Hugging Face)** — For AI model inference (e.g., FLAN-T5, Mistral-7B, BART-Large-CNN)
+- **PostgreSQL** — Database for storing queries and summaries
+- **SQLAlchemy** — ORM for database operations
+
+---
+
+## 📝 Prompt Strategies
+
+- **Role-based prompts:** Assigns personas (friendly assistant, scholarly expert) to guide tone.
+- **Explicit instructions:** Clearly states the task and desired format for each response.
+- **Structured output:** Requests specific output formats (e.g., paragraph count, summary length).
+- **Self-refinement:** Uses additional prompts for polishing and summarizing responses.
+
+*Example (Casual):*
+You're a helpful assistant who explains things like you're talking to a friend.
+Instruction:
+<user prompt>
+Respond in 4-5 big paragraphs.
+
+*Example (Academic):*
+You're a scholarly assistant with expertise in academic writing.
+Instruction:
+<user prompt>
+Respond in 4-5 well-developed paragraphs.
+
+
 
 
 
