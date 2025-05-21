@@ -69,7 +69,7 @@ Go to [http://localhost:8501](http://localhost:8501) to use the app!
 - **Python 3.12** — Core programming language
 - **FastAPI** — Backend API framework
 - **Streamlit** — Interactive frontend
-- **Transformers (Hugging Face)** — For AI model inference (e.g., FLAN-T5, Mistral-7B, BART-Large-CNN)
+- **Transformers (Hugging Face)** — For AI model inference (e.g., FLAN-T5,BART-Large-CNN)
 - **PostgreSQL** — Database for storing queries and summaries
 - **SQLAlchemy** — ORM for database operations
 
