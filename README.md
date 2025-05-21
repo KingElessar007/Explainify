@@ -93,6 +93,10 @@ You're a scholarly assistant with expertise in academic writing.
 Instruction:
 <user prompt>
 Respond in 4-5 well-developed paragraphs.
+![WhatsApp Image 2025-05-21 at 22 29 50_686960b8](https://github.com/user-attachments/assets/1014154f-6b2d-4a7d-b1b1-92f1ffac1894)
+
+![WhatsApp Image 2025-05-21 at 22 30 32_0628842e](https://github.com/user-attachments/assets/c18ed54f-c514-4b72-8390-16bdfe9711fb)
+
 
 
 
